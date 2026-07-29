@@ -118,6 +118,7 @@ Support batch translation with multiple files.
 Implement automated tests for subtitle processing.
 Integrate an official translation API.
 Improve error recovery and retry mechanisms.
+screenshot/https://github.com/Johndastan/Google-translator-bot./blob/main/imagen_2026-07-29_032321714.png
 Author
 
 Jonathan Castañeda
